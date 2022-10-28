@@ -1,3 +1,3 @@
 # SCCS
 
-![Metrics](/github-metrics.svg)
+![Metrics](/metrics.plugin.lines.svg)
