@@ -19,7 +19,5 @@ jobs:
             token: ${{ secrets.METRICS_TOKEN }}
             base: repositories
             config_timezone: America/New_York
-            repositories_skipped: swat-sccs/swatwiki
+            repositories_skipped: swat-sccs/swatwiki, swat-sccs/airpool
             plugin_languages: yes
-
-            
